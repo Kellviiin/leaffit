@@ -81,7 +81,7 @@ main{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	font-size: 9.5rem;
+	font-size: 10rem;
 	border-radius: 50px;
 	background-color: #EEEEEE;
 }
@@ -98,7 +98,7 @@ p{
 }
 
 img{
-	height: 2rem;
+	height: 60rem;
 	margin: 5rem 10rem 0 10rem;
 }
 

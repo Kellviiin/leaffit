@@ -176,12 +176,13 @@ aside{
 	
 }
 
-@media (min-width:427px) and (max-width: 769px){
+@media (min-width:427px) and (max-width: 768px){
 	main{
 		grid-area: main;
 		
 		height: 99.5vh;
 		display: flex;
+		flex-direction: column;
 		justify-content: space-around;
 		align-items: center;
 		box-sizing: border-box;
@@ -225,7 +226,6 @@ aside{
 @media (min-width:770px) and (max-width: 1024px){
 	main{
 		grid-area: main;
-		
 		height: 99.5vh;
 		display: flex;
 		justify-content: space-around;
